@@ -36,6 +36,10 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import istudio from "./company/istudio.png";
 
+import bvb from "./education/bvb.png";
+import gp from "./education/gp_logo.jpeg";
+import vit from "./education/vit.jpg";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -78,5 +82,8 @@ export {
   mysql,
   dl,
   ml,
-  istudio
+  istudio,
+  bvb,
+  gp,
+  vit,
 };

@@ -32,7 +32,10 @@ import {
   mysql,
   dl,
   ml,
-  istudio
+  istudio,
+  bvb,
+  vit,
+  gp
 } from "../assets";
 
 export const navLinks = [
@@ -334,19 +337,19 @@ const education = [
     degree: "B.Tech",
     institution: "VIIT",
     percentage: "CGPA: 8.7 of 10",
-    logo: "/src/assets/education/vit.jpg",
+    logo: vit,
   },
   {
     degree: "Diploma",
     institution: "Government Polytechnic, Ahmednagar",
     percentage: "Percentage: 92% of 100%",
-    logo: "/src/assets/education/gp_logo.jpeg", 
+    logo: gp, 
   },
   {
     degree: "Class X",
     institution: "Bharatiya Vidya Bhavan",
     percentage: "92% of 100%",
-    logo: "/src/assets/education/bvb.png",
+    logo: bvb,
   }
 ];
 
